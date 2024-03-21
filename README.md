@@ -7,5 +7,6 @@ Medical-report/
 ├── extract/
 │   ├── copy_report2txt
 │   ├── extact_section
+├── labeling.sh
 └── README.md
 ```
